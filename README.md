@@ -1,2 +1,1 @@
-# index
-collection of tools created by @iitsuraj
+# collection of tools created by @iitsuraj
